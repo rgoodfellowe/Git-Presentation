@@ -1,1 +1,1 @@
-Git is a distributed version control system
+Git is a distributed version control system, And now I have made changes to it outside of my local repo
